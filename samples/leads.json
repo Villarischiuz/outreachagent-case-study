@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Synthetic Legal Studio",
+    "category": "legal",
+    "city": "Salerno",
+    "website": "https://slow-example.test",
+    "has_https": false,
+    "mobile_ready": false,
+    "load_time_ms": 4200,
+    "contact_available": true
+  },
+  {
+    "id": 2,
+    "name": "Synthetic Workshop",
+    "category": "manufacturing",
+    "city": "Turin",
+    "website": null,
+    "has_https": false,
+    "mobile_ready": false,
+    "load_time_ms": null,
+    "contact_available": true
+  },
+  {
+    "id": 3,
+    "name": "Social-only Example",
+    "category": "creative",
+    "city": "Milan",
+    "website": "https://instagram.com/synthetic-example",
+    "has_https": true,
+    "mobile_ready": true,
+    "load_time_ms": 900,
+    "contact_available": true
+  },
+  {
+    "id": 4,
+    "name": "Healthy Site Example",
+    "category": "consulting",
+    "city": "Bologna",
+    "website": "https://healthy-example.test",
+    "has_https": true,
+    "mobile_ready": true,
+    "load_time_ms": 1200,
+    "contact_available": true
+  }
+]
+
