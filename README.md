@@ -76,7 +76,7 @@ The demo uses only the Python standard library and performs no network calls or 
 
 ## Current status and limits
 
-OutreachAgent is a real working system, not a claimed commercial success. A documented early outreach experiment produced replies but no sale; therefore I present it as evidence of workflow engineering and technical execution, not validated product-market fit.
+OutreachAgent has been used in controlled outreach tests and produced replies. The available sample is not sufficient to claim validated commercial performance, so I present it as evidence of workflow engineering and technical execution rather than product-market fit.
 
 The public demo is intentionally simplified. It contains no production credentials, databases, lead identities, email content, infrastructure details, or proprietary scoring thresholds.
 
@@ -86,4 +86,3 @@ I'm Francesco Villari, a Management Engineering graduate starting an MSc in Smar
 
 - [LinkedIn](https://www.linkedin.com/in/francesco-villari/)
 - [GitHub](https://github.com/Villarischiuz)
-
